@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common Council together with certain orders, rules, and directions touching the paving and cleansing the streets, lanes and common passages with the city of London, and liberties thereof : and other things relating thereunto.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 44KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48996</idno><idno type="EEBO-CITATION">18368509</idno>
+  <idno type="VID">107419</idno>
+  <idno type="EEBO-PROQUEST">2240904209</idno>
+  
+            <idno type="STC">Wing L2854H</idno>
+            <idno type="STC">ESTC R39346</idno>
+            <idno type="OCLC">18368509</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common Council together with certain orders, rules, and directions touching the paving and cleansing the streets, lanes and common passages with the city of London, and liberties thereof : and other things relating thereunto.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[3], 35 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved frontispiece containing coat of arms of the city of London.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">City traffic --  England --  London.</term>
+               <term type="topical_term">Streets --  England --  London --  Maintenance and repair.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107419:1"/>
+            <p>AN ACT OF Common Council: Together with certain <hi>Orders, Rules</hi> and <hi>Directions</hi> Touching the <hi>Paving</hi> and <hi>Cleansing</hi> THE Streets, Lanes and Common Passages WITHIN THE City of <hi>LONDON,</hi> and LIBERTIES thereof: And other things relating thereunto.</p>
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of <hi>London,</hi> at his House in <hi>Aldersgatestreet,</hi> 1671.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:107419:2"/>
+            <p>
+               <figure>
+                  <figDesc>coat of arms of London</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:107419:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:107419:3"/>
+            <pb n="1" facs="tcp:107419:3"/>
+            <head>
+               <date>
+                  <hi>Veneris</hi> primo die <hi>Martii, 1671/2.</hi>
+               </date> By the Commissioners for <hi>Sewers, Pavements,</hi> &amp;c. in <hi>LONDON.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Commissioners willing that all persons concerned may take notice of a late Act of Common Council, and of several ancient Customs, and other Statutes, Rules and Orders relating to the <hi>Paving</hi> and <hi>Cleansing</hi> of the <hi>Streets</hi> and <hi>Sewers,</hi> and preventing other incon<g ref="char:EOLhyphen"/>veniencies to the <hi>Common Passages</hi> in and about the City of <hi>London</hi> and Liberties thereof; and that due conformity may be yielded thereunto, and the P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nalties for breach thereof may be avoided, have <hi>agreed</hi> and <hi>ordered,</hi> That the same be forthwith <hi>Printed</hi> in a <hi>small Book,</hi> and delivered to, or left for, every <hi>Housholder</hi> within this <hi>City</hi> and <hi>Liberties;</hi> and which are as follow, that is to say,</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb n="2" facs="tcp:107419:4"/>
+            <head>
+               <hi>FORD Maior,</hi>
+               <date>Octob. <hi>27, 1671.</hi>
+               </date> An Act for setling of Lay-Stalls, pre<g ref="char:EOLhyphen"/>venting several Inconveniences to Pas<g ref="char:EOLhyphen"/>sengers, and relating also to the Clean<g ref="char:EOLhyphen"/>sing of the Streets and Passages within this City and Liberties thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of this present Parliament, enti<g ref="char:EOLhyphen"/>tuled, <hi>An Act for the better Paving and Clean<g ref="char:EOLhyphen"/>sing the Streets and Sew<g ref="char:EOLhyphen"/>ers in and about the City of LONDON,</hi> the appointing, setting out, and pur<g ref="char:EOLhyphen"/>chasing of places convenient for Lay-Stalls, and for publick Stores for Ma<g ref="char:EOLhyphen"/>terials and Commodities, is vested in the Maior, Aldermen, and Commons in Common Council assembled; and other Authorities therein mentioned are thereby vested in the Maior, Com<g ref="char:EOLhyphen"/>monalty, and Citizens of the said City, to be managed, executed, and done by such Persons as by the said Maior, Al<g ref="char:EOLhyphen"/>dermen, and Commons in Common Council assembled, shall be thereunto
+<pb n="3" facs="tcp:107419:4"/> authorized and appointed, or by any Seven or more of them (being all Mem<g ref="char:EOLhyphen"/>bers of the said Court) and no other Persons whatsoever. Be it therefore Enacted, Ordained, and Established by the Right Honourable the Lord Maior, the Right Worshipful the Aldermen, and the Commons in this present Com<g ref="char:EOLhyphen"/>mon Council assembled, and by the Authority of the same, and the said Lord Maior, Aldermen, and Commons in this present Common Council as<g ref="char:EOLhyphen"/>sembled do hereby appoint, That the several Pieces or Parcels of Ground hereafter named, that is to say, a Piece or Parcel of waste Ground on the South side of the hither end of <hi>Mile-end Green,</hi> adjoining to the High-Way there, extending from the Place called the <hi>Fort,</hi> to the hither end of the Wall of the House and Ground called the <hi>Red Lion;</hi> a Piece of Ground on the West side of and contiguous to <hi>Dow<g ref="char:EOLhyphen"/>gate-Dock,</hi> now or late in the Possession of <hi>Job Clark;</hi> a Piece or Parcel of Ground on the East side of and conti<g ref="char:EOLhyphen"/>guous
+<pb n="4" facs="tcp:107419:5"/> to <hi>Puddle-Dock,</hi> now or late in the Possession of <hi>John Cock;</hi> and a Piece or Parcel of Ground on the West side of and contiguous to <hi>Whitefriers Dock,</hi> now or late in the Tenure or Possession of <hi>Robert Gosling,</hi> shall be from hence<g ref="char:EOLhyphen"/>forth places for common Lay-Stalls, to be employed for the publick Use and Benefit of this City and Liberties there<g ref="char:EOLhyphen"/>of, in such manner as the Commissio<g ref="char:EOLhyphen"/>ners authorized or to be authorized by this Court according to the said Act of Parliament, or any Seven or more of them shall order and direct; and the said Commissioners or any Seven or more of them shall by Warrant un<g ref="char:EOLhyphen"/>der their Hands and Seals directed to the Chamberlain of this City for the time being, order the Payment of all such Sums of Money, as are or shall be agreed upon concerning the same be<g ref="char:EOLhyphen"/>tween the respective Proprietors of the said Grounds and the said Commissio<g ref="char:EOLhyphen"/>ners; which Agreements the said Com<g ref="char:EOLhyphen"/>missioners are hereby impowered to perform and make, and the said Cham<g ref="char:EOLhyphen"/>berlain
+<pb n="5" facs="tcp:107419:5"/> for the time being shall make payment thereof accordingly out of the Moneys arising by the Imposition upon Coals, according to the aforesaid Act of Parliament.</p>
+            <p>And the said Commissioners or any Seven or more of them are hereby far<g ref="char:EOLhyphen"/>ther authorized, as need shall require, to appoint and set out such and so many other Parcels of Ground for com<g ref="char:EOLhyphen"/>mon Lay-stalls, and for publick Stores for all sorts of Fuel, and for all sorts of Materials for Pitching, Paving, and Cleansing the Streets, and for other Commodities for publick Use, as from time to time shall be by them found requisite and necessary; and to make Agreement with the Proprietors of the said Grounds, and to order pay<g ref="char:EOLhyphen"/>ment for the same in manner as afore<g ref="char:EOLhyphen"/>said, and the Ordering and Managing of the said Places when set out and appointed shall be in the said Com<g ref="char:EOLhyphen"/>missioners or any Seven or more of them; And that all the Profits there<g ref="char:EOLhyphen"/>of shall be paid unto the Chamberlain
+<pb n="6" facs="tcp:107419:6"/> of this City for the time being, for the use of the Maior, Commonalty, and Citizens of the same, and distinct Books of Accompts shall be kept con<g ref="char:EOLhyphen"/>cerning the same, and the said Profits shall be disposed of from time to time, as the said Commissioners or any Seven or more of them shall appoint to be approved of by this Court.</p>
+            <p>And be it Enacted by the Authority aforesaid, That the said Commissioners or any Seven or more of them shall from henceforth have Authority, and are hereby impowered from time to time to summon, enquire after, ex<g ref="char:EOLhyphen"/>amine, and in default of Appearance upon such Summons or Submission to the Censure or Judgment of the said Commissioners or any Seven or more of them, to cause to be indicted or informed against at the Sessions of the Peace to be held for this City, all such Persons as have made and shall continue within this City and Liberties thereof any Bulks or Stalls contrary to the an<g ref="char:EOLhyphen"/>tient Usage and Custom of this City,
+<pb n="7" facs="tcp:107419:6"/> and several late Acts of Parliament, or have made and shall continue any Stall-Boards above the bredth allow<g ref="char:EOLhyphen"/>able by the said antient Usage and Cu<g ref="char:EOLhyphen"/>stom and Acts of Parliament, or shall set Goods and Commodities or Mate<g ref="char:EOLhyphen"/>rials for Building into the Common Streets and Common Passages within this City or Liberties thereof, or shall hang out Goods to the hindrance or da<g ref="char:EOLhyphen"/>mage of Passengers or their Neighbours Trade, or streightning the common Passage, or shall throw out or cast into the Streets, any Dust, Soil, or Rubbish, or shall dig any Pits or Drains, or other<g ref="char:EOLhyphen"/>wise intermeddle with the Pavements (without Licence from the said Com<g ref="char:EOLhyphen"/>missioners or any Seven or more of them) which shall tend to the ob<g ref="char:EOLhyphen"/>structing or annoyance of the Ways, Passages, or Water-courses of this City.</p>
+            <p>And further be it Enacted by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That from henceforth no Beggars or Vagrants, Tankardbear<g ref="char:EOLhyphen"/>ers, Porters, or other persons whatso<g ref="char:EOLhyphen"/>ever
+<pb n="8" facs="tcp:107419:7"/> bearing any kind of Burthens on their Heads, Backs, or Arms, Horses, or any kind of Cattel, shall be permit<g ref="char:EOLhyphen"/>ted at any time of the day from Six of the clock in the Morning, until Nine of the clock at Night, to go on, pass, or be lead upon the flat Pavements in any Street between the Houses and the Posts adjoining to the said flat Pavements, ex<g ref="char:EOLhyphen"/>cept only for going into the said Houses directly cross the said Pavements, under the penalty of five shillings for every Horse or other kind of Cattel whatso<g ref="char:EOLhyphen"/>ever, and three shillings four pence for every Tankard-bearer, Porter, and o<g ref="char:EOLhyphen"/>ther person carrying Burthen as afore<g ref="char:EOLhyphen"/>said, for every Offence, and the said Beggars and Vagrants to be punished according to the Laws already in force: And that all Constables within this City and Liberties thereof and other Officers employed, or to be employed, by the said Commissioners or any Se<g ref="char:EOLhyphen"/>ven or more of them (who shall have power and are hereby authorized and directed to employ such persons accor<g ref="char:EOLhyphen"/>dingly)
+<pb n="9" facs="tcp:107419:7"/> and all Marshals and their Men and Warders are to take special care to prevent the said Offences and to appre<g ref="char:EOLhyphen"/>hend all such Offenders; And in case the said Marshals or their Men or Warders shall be negligent in doing their Duty herein, it shall be lawful for the Lord Maior for the time being and his Successors, upon due proof of such Neglect, to amove such Marshals and their Men, and other inferiour Warders, and others to put in their places.</p>
+            <p>And further be it Enacted by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That no Street-Car or Brewers Dray shall from and after the Tenth day of <hi>December</hi> next ensuing, be drawn with more than one Horse within this City or Liberties thereof, unless in such case only where the Load cannot be divided, and that the Weight thereof shall require more than one Horse for the Draught thereof, and in case also of drawing up any the Hills from <hi>Thames-street,</hi> and up <hi>Holborn-Hill,</hi> upon the penalty of Ten shillings
+<pb facs="tcp:107419:8"/> by the Owner of such Car or Dray which shall break this Law, for the first Offence, Twenty shillings for the second Offence, and Thirty shillings for the third and every other Offences, and that the supernumerary Horse and Horses shall and may be seized and impounded by the Officers appointed to take care of the before-mentioned Offences, or any of them, or by such Officer or Officers, as are or shall be appointed by the President, Treasurer, and Go<g ref="char:EOLhyphen"/>vernours of <hi>Christs-Hospital</hi> for the time being, for taking care of Cars and Car-men, until the said penalty be paid.</p>
+            <p>And be it further Enacted, That all Cars, Wagons, Drays, and other Car<g ref="char:EOLhyphen"/>riages during all the time of their Load<g ref="char:EOLhyphen"/>ing and Unloading within the Streets of this City and Liberties thereof, unless before Six of the clock in the Morning, and after Eight of the clock in the Evening, from <hi>Lady Day</hi> to <hi>Michaelmas,</hi> and before Eight in the Morning, and after Six in the Evening from <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> to <hi>Lady Day,</hi> shall stand side-ways,
+<pb facs="tcp:107419:8"/> the long way of the Street, and not cross the same, that so Passengers may safely go between the Houses and Carriages (Except for such Goods and Commo<g ref="char:EOLhyphen"/>dities as are not portable;) And that no Dray upon any occasion whatsoever, shall from henceforth stand in any Street or Passage within this City or Liberties thereof, but where a Coach or other Dray may pass by such Cart or Dray so standing: Nor shall stand any longer time than for Loading or Unloading, or other case of absolute Necessity: And that if any person or persons shall cause his or their Car or Carriages to be set otherwise in Loading or Unloading, he and they shall forfeit Three shillings four pence for every such Offence; and upon the penalty that every Owner and Owners of every Dray standing contrary to this Act shall forfeit three shillings four pence for every Offence, and the Horse and Dray shall be impounded by any the Officers aforesaid, till Payment thereof.</p>
+            <p>And be it further Enacted by the
+<pb n="12" facs="tcp:107419:9"/> Authority aforesaid, That from and af<g ref="char:EOLhyphen"/>ter the said Tenth day of <hi>December</hi> nex<g ref="char:EOLhyphen"/>ensuing, all the Dung, Soil, Filth, Seat coal-Ashes, and other Dirt, as well from all the Streets, Lanes, and Pas<g ref="char:EOLhyphen"/>sages, as from all the Houses of the In<g ref="char:EOLhyphen"/>habitants within this City and Liberties thereof, shall be carried away by such persons or their Servants, who are at present or that shall or may from time to time hereafter be permitted or al<g ref="char:EOLhyphen"/>lowed to work any Car or Cars within this City or Liberties thereof, by the said President, Treasurer, and Gover<g ref="char:EOLhyphen"/>nours of <hi>Christs Hospital,</hi> in such Man<g ref="char:EOLhyphen"/>ner and Method, and for such conside<g ref="char:EOLhyphen"/>ration as by the said Commissioners or any Seven or more of them, and the Fel<g ref="char:EOLhyphen"/>lowship of Car-men, shall from time to time be agreed upon; and in case the said Commissioners and Fellowship cannot or shall not agree for or touch<g ref="char:EOLhyphen"/>ing the carrying away the Soil as afore<g ref="char:EOLhyphen"/>said: That then and in such case, it shall and may be lawful to and for the said President, Treasurer, and Governours
+<pb n="13" facs="tcp:107419:9"/> of <hi>Christs Hospital,</hi> and they are hereby required, and impowered, upon Certi<g ref="char:EOLhyphen"/>ficate from the said Commissioners, to License such number of Cars as the said Commissioners or any Seven or more of them shall think fit, not exceeding Eighty over and above the Four hun<g ref="char:EOLhyphen"/>dred and twenty Licensed by former Acts of Common Council, which said Cars are to be disposed of by the said Commissioners for the better carrying on their work, and are hereby inabled to do such other work as other Street-Cars do or may do, and the Owner and Owners thereof shall in all points (ex<g ref="char:EOLhyphen"/>cepting for carrying of Soil and other works to be done by Order of the said Commissioners) be under the Regula<g ref="char:EOLhyphen"/>tion of the said President, Treasurer, and Governours, as other Street-Cars, and shall pay such Rent as by the said President, Treasurer, and Governours with the said Commissioners or any Seven or more of them shall be adjudg'd fit and reasonable, not exceeding seven<g ref="char:EOLhyphen"/>teen shillings four pence <hi>per annum</hi> apiece.</p>
+            <pb facs="tcp:107419:10"/>
+            <p>And it is Enacted by the Authority aforesaid; That one Act of Common Council bearing date the One and Twentieth day of <hi>June</hi> 1665. touching the ordering and disposing of Cars, and all and every the Clauses therein con<g ref="char:EOLhyphen"/>tained, be put in due and effectual Exe<g ref="char:EOLhyphen"/>cution by the said President, Treasurer, and Governours, and that the said Com<g ref="char:EOLhyphen"/>missioners be assisting to them therein.</p>
+            <p>And it is Enacted, That all Pains, Penalties, and Forfeitures in and by this Act before limited and appointed, in case the same shall not be paid to the said Commissioners or Seven or more of them, upon Summons to the respe<g ref="char:EOLhyphen"/>ctive Offendors before-hand made for their appearance before the said Com<g ref="char:EOLhyphen"/>missioners concerning Payment thereof, shall and may be recovered by Action of Debt, Bill, or Information, in the name of the Chamberlain of this City for the time being, in his Majesties Court holden before the Maior and Aldermen of the said City in the Chamber of the <hi>Guildhall</hi> of the City of
+<pb n="15" facs="tcp:107419:10"/>
+               <hi>London,</hi> wherein no Essoin or Wager of Law shall be admitted or allowed for the Defendant, and after recovery thereof, one third part shall be to the Prosecutor, and the other two parts and residue thereof (after all charges out of the said two parts deducted) to the Poor of <hi>Christs Hospital</hi> in <hi>London,</hi> to be employed for and towards their Relief; In all which Suits to be brought by this Act, the Chamberlain shall re<g ref="char:EOLhyphen"/>cover his ordinary Costs and Charges, to be expended in and for recovery of all such Forfeitures against the Offender or Offenders; and in case the same Pains Penalties, and Forfeitures shall be paid to the said Commissioners or any Seven or more of them upon Sum<g ref="char:EOLhyphen"/>mons, as aforesaid, without any fur<g ref="char:EOLhyphen"/>ther process, one third part shall be dis<g ref="char:EOLhyphen"/>posed by the said Commissioners for Encouragement of their Officers who shall take pains in the matter aforesaid, in such manner as they shall think fit, and the other two parts shall be disposed to the Poor of the Hospital as is afore<g ref="char:EOLhyphen"/>said.</p>
+            <pb n="16" facs="tcp:107419:11"/>
+            <p>And lastly, be it Enacted by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That the Wardens and Assistants of the Fellowship of Car<g ref="char:EOLhyphen"/>men, now consisting of Twenty three in number, shall be forthwith increased and made up to the number of Forty one, and shall so continue for ever here<g ref="char:EOLhyphen"/>after: And that the Eighteen to be so added, and so upon any Choice or Election of others for the future upon any Avoidance, shall be such Persons as have or shall actually serve an Appren<g ref="char:EOLhyphen"/>ticeship to the said Calling of a Car-man, and no other.</p>
+            <closer>
+               <signed>Avery.</signed>
+            </closer>
+         </div>
+         <div type="rules">
+            <head>
+               <hi>Rules, Orders</hi> and <hi>Directions.</hi>
+            </head>
+            <p n="1">I. <hi>Item,</hi> That hereafter all <hi>Streets</hi> within this City, called, known, or set down to be <hi>High Streets,</hi> shall be paved round or <hi>Causway</hi> fashion, and upon notice given to the Commissioners of any <hi>defective Pavements</hi> in any of the Streets, Lanes, and Passages within this City and Liberties, the same shall be
+<pb n="17" facs="tcp:107419:11"/> forthwith made good and amended, unless by general Consent some better Expedient be found and published.</p>
+            <p n="2">II. That inasmuch as it hath been found by common experience that the <hi>Paviers,</hi> to hide and cover their bad Workmanship, have oftentimes spread and laid great quantities of <hi>Gravel</hi> over their <hi>Pavements,</hi> to greater charge to the persons setting them on work, than was needful, and which upon a sudden Rain, did either choak the <hi>Common Sewers,</hi> or turn to <hi>dirt</hi> and <hi>mire</hi> in the <hi>Streets,</hi> there<g ref="char:EOLhyphen"/>fore the said <hi>Paviers</hi> are required, that hereafter they do forbear to lay or spred any more <hi>Gravel</hi> on the <hi>Pavements,</hi> than will only fill up the Joints of their Work, and cause the same to be swept and well ram'd, and leave the <hi>Pave<g ref="char:EOLhyphen"/>ments</hi> bare of <hi>Gravel,</hi> and keep a regular Method of <hi>Paving,</hi> not paving one door higher than another, upon pain of pay<g ref="char:EOLhyphen"/>ing five shillings for every Complaint.</p>
+            <p n="3">III. That the Bredth of six foot at the least from the Foundation of the Houses in such of the said <hi>High Streets</hi>
+               <pb n="18" facs="tcp:107419:12"/> which shall be allowed to be posted, shall be paved by the Inhabitants or Owners with <hi>flat</hi> or <hi>broad Stone</hi> for a Foot-Passage, unless such parts there<g ref="char:EOLhyphen"/>of as shall lie before any Gate-way, which may be done with square Rag by the said Bredth of six foot, upon pain of paying Five shillings for every Week the same shall be omitted to be done after notice given.</p>
+            <p n="4">IV. That every Person having occa<g ref="char:EOLhyphen"/>sion to rebuild or repair any House or Houses fronting any <hi>Street, Lane,</hi> or <hi>Common Passage,</hi> do first procure Li<g ref="char:EOLhyphen"/>cence of Mr. Chamberlain for the time being, to hourd in a <hi>piece of ground</hi> before his <hi>building,</hi> within which to lay his <hi>Ma<g ref="char:EOLhyphen"/>terials for Building,</hi> or in default shall pay Forty shillings, and Twenty shil<g ref="char:EOLhyphen"/>lings for every weeks omission so to do.</p>
+            <p n="5">V. That a <hi>Fall</hi> or <hi>Cest-pool</hi> of con<g ref="char:EOLhyphen"/>venient bigness shall be made and con<g ref="char:EOLhyphen"/>tinued to every Grate of the <hi>Common Sewer</hi> within this City and Liberties, to receive the <hi>Sand</hi> or <hi>Gravel</hi> coming to the same, so to prevent the choaking
+<pb n="19" facs="tcp:107419:12"/> thereof: And upon Complaint at any time made of the <hi>want, decay</hi> or <hi>defect</hi> thereof, the Commissioners will forth<g ref="char:EOLhyphen"/>with cause the same to be made or a<g ref="char:EOLhyphen"/>mended.</p>
+            <p n="6">VI. That the <hi>Fellowship of Car-men</hi> of this City having undertaken for one year to commence from the first of <hi>January,</hi> 1671. to <hi>Sweep</hi> and <hi>Cleanse</hi> the Streets, Lanes, and common Passa<g ref="char:EOLhyphen"/>ges within the said City and Liberties from <hi>Dung, Soil, Filth,</hi> and <hi>Dirt,</hi> and to carry the same together with what shall be brought out of the Houses of the Inhabitants unto certain <hi>Lay-stalls</hi> appointed, or that shall be appointed by the said Commissioners for the time being, the several Persons by them im<g ref="char:EOLhyphen"/>ployed in and about this Affair (whose <hi>Names, Places of Abode,</hi> Number of <hi>Tun<g ref="char:EOLhyphen"/>brils</hi> or <hi>Carts,</hi> and the <hi>Wards</hi> to which they are respectively designed, are here<g ref="char:EOLhyphen"/>after set down) or such others as (by death or removal of any of them) shall be imployed therein, shall keep, observe and follow the <hi>Rules</hi> and <hi>Orders</hi> hereafter following <hi>viz.</hi>
+            </p>
+            <p n="7">
+               <pb n="20" facs="tcp:107419:13"/>VII. That they, their Agents or Ser<g ref="char:EOLhyphen"/>vants, shall come out with their <hi>Tun<g ref="char:EOLhyphen"/>brils,</hi> or <hi>Carts</hi> and <hi>Horses</hi> on <hi>Mundays, Tuesdays, Wednesdays, Thursdays,</hi> and <hi>Fridays</hi> in every Week of the year from the eleventh of <hi>October</hi> to the eleventh of <hi>February</hi> by five of the clock every Morning of the same days, and not to continue and remain in the Streets, Lanes or Passages after the hour of Nine of the clock the same Morning; and from the eleventh of <hi>February</hi> to the eleventh of <hi>October,</hi> to come out as aforesaid, by Four of the Clock every Morning of the same days, and not to continue or remain in the Streets, Lanes or Passages after the Hour of Seven of the Clock the same Morning, and upon every <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> in the year to come out as afore<g ref="char:EOLhyphen"/>said, by Two of the Clock in the Af<g ref="char:EOLhyphen"/>ternoon of the same day, to remain and continue till Night, if need be: And within the <hi>Hours</hi> and <hi>Times</hi> aforesaid, shall <hi>cleanse</hi> all the <hi>Streets, Lanes,</hi> and <hi>Passages,</hi> every man within his or their respective Divisions, from its <hi>Soil, Filth,</hi>
+               <pb n="21" facs="tcp:107419:13"/> and <hi>Dirt</hi> by sweeping of the same, and carrying it away, together with what shall be brought out of the <hi>Houses</hi> of the Inhabitants to the <hi>Lay-stalls</hi> appointed or that shall be appointed, upon pain to forfeit for every Offence Ten shillings.</p>
+            <p n="8">VIII. That the several Inhabitants within this City and Liberties, or their Servants do take care that the <hi>Dirt, Ashes</hi> and <hi>Soil</hi> of their Houses be in a readi<g ref="char:EOLhyphen"/>ness for the <hi>Car-men,</hi> their <hi>Agents</hi> or <hi>Servants,</hi> either by setting out the same over night in Tubs, Boxes, Baskets, or other Vessels near and contiguous to their Houses, or by bringing out the same within convenient time before the Hours for their Departure as aforesaid.</p>
+            <p n="9">IX. That the said Car-men, their <hi>Agents</hi> or <hi>Servants</hi> in their several <hi>Wards</hi> or <hi>Divisions</hi> (with the Assistance of the Servants of the Inhabitants who are hereby directed to give such Assistance) shall in times of <hi>Frost</hi> or <hi>Snow,</hi> daily employ themselves in the <hi>opening</hi> of the <hi>Chanels,</hi> and <hi>heaping</hi> up the <hi>Ice</hi> and <hi>Snow,</hi> that so the Passages may be cleared, and
+<pb n="22" facs="tcp:107419:14"/> upon a Thaw of the same, that all the Soil and Filth found in the Streets, Lanes and Passages be carried away, upon pain of Ten shillings for every days omission.</p>
+            <p n="10">X. That no Person whatsoever do pre<g ref="char:EOLhyphen"/>sume to cast out any <hi>Soil, Horse-Dung</hi> or <hi>Filth,</hi> or carry the same into any <hi>Street, Lane</hi> or <hi>Common Passage</hi> after the hours aforesaid, either by night or by day, up<g ref="char:EOLhyphen"/>on the Penalty that the Person offending, if known (and if a Servant, his or her Master or Mistriss) shall Forfeit and Pay Five shillings —and if not known the Party against whose House the same shall be found, (having been laid there in the day time after the hours before mentioned) shall Forfeit One shilling; which said several Forfeitures shall be Paid the one moyety to the <hi>Discoverer,</hi> and the other to the <hi>Car-man</hi> or <hi>Car-men</hi> appointed to Cleanse that <hi>Ward</hi> wherein the offence shall be committed.</p>
+            <p n="11">XI. That the several <hi>Tunbrils</hi> or <hi>Carts</hi> imployed or to be imployed in this <hi>Work</hi> shall be <hi>Marked</hi> or <hi>Numbred</hi> according to the <hi>Number</hi> of <hi>Carts</hi> ap<g ref="char:EOLhyphen"/>pointed
+<pb n="23" facs="tcp:107419:14"/> for each <hi>Ward,</hi> upon the pe<g ref="char:EOLhyphen"/>nalty of Two shillings for every Load carried without such <hi>Mark.</hi>
+            </p>
+            <p n="12">XII. That the several <hi>Car-men</hi> un<g ref="char:EOLhyphen"/>dertakers in this affair shall set upon the fore part of his <hi>Tunbril</hi> or <hi>Cart,</hi> open and plain to view a board where<g ref="char:EOLhyphen"/>on to be painted <hi>The City Arms,</hi> the <hi>Ward</hi> to which he or they are appointed, the <hi>Mark</hi> or <hi>Number</hi> of his <hi>Tunbril</hi> or <hi>Cart,</hi> upon penalty of paying Three shillings four pence a day for want thereof, which said <hi>Marking</hi> is to beto<g ref="char:EOLhyphen"/>ken the Allowance of the Commissio<g ref="char:EOLhyphen"/>ners, and to caution the <hi>Inhabitants</hi> from imploying of Foreign <hi>Carts.</hi>
+            </p>
+            <p n="13">XIII. That the said <hi>Car-men</hi> Under<g ref="char:EOLhyphen"/>takers, their <hi>Agents</hi> or <hi>Servants</hi> shall give notice of their being in the <hi>Streets</hi> with their <hi>Tunbrils</hi> or <hi>Carts</hi> by loudly knocking a wooden <hi>Clapper</hi> especially in <hi>Courts, Allies</hi> and other back <hi>passages,</hi> upon pain to forfeit Three shillings four pence upon every <hi>complaint</hi> duly prov'd.</p>
+            <p n="14">XIV. That the said <hi>Car-men</hi> their <hi>Agents</hi> or <hi>Servants</hi> do take care that
+<pb n="24" facs="tcp:107419:15"/> the <hi>Falls</hi> or <hi>Cest-Pools</hi> belonging to any <hi>Grate</hi> within their Respective <hi>Wards,</hi> be once in every <hi>Week,</hi> or oftener if need require, <hi>Cleansed</hi> of its <hi>Dirt</hi> and <hi>Filth,</hi> and the same carried away upon pain to forfeit Five shillings for every complaint duly proved.</p>
+            <p n="15">XV. That the aforesaid <hi>Car-men,</hi> their <hi>Agents</hi> or <hi>Servants</hi> and no other, shall also carry away to the <hi>Lay-stals</hi> afore<g ref="char:EOLhyphen"/>said, all such <hi>Soil, Dirt</hi> and <hi>Dung (Rubbish</hi> or <hi>Earth</hi> excepted) that shall be made or found in any of the <hi>Houses</hi> or <hi>Stables</hi> of any <hi>Inn-keeper, Livery Stable-keeper, Brewer, Dyer, Sugar-baker, Sope-maker,</hi> or other <hi>Trader</hi> or <hi>Inhabitant</hi> within any the <hi>Wards</hi> to which they are Respecti<g ref="char:EOLhyphen"/>vely appointed and designed, for which such <hi>Quarterly</hi> Allowance (over and a<g ref="char:EOLhyphen"/>bove the <hi>Customary Rates</hi> by the <hi>Sca<g ref="char:EOLhyphen"/>vengers</hi> Book) shall be made by the As<g ref="char:EOLhyphen"/>sessors of each <hi>Ward</hi> according to their best discretion, respect being had to the Trade or other occasions in the making of more or less <hi>Dung</hi> and <hi>Soil</hi> by such <hi>Traders</hi> or <hi>Inhabitants.</hi>
+            </p>
+            <p n="16">
+               <pb n="25" facs="tcp:107419:15"/>XVI. That the aforesaid <hi>Car-men</hi> their <hi>Agents</hi> or <hi>Servants</hi> and no other shall take up and carry away to such Persons or places as will receive the same, all such <hi>Rubbish</hi> or <hi>Earth</hi> that shall be made or found within their Respective <hi>Wards</hi> or <hi>Divisions</hi> for which there shall be paid them by the Own<g ref="char:EOLhyphen"/>ers or Proprietors thereof Twelve pence <hi>per</hi> Load and no more, provi<g ref="char:EOLhyphen"/>ded they carry it away within one day after notice given for the conveniency of the owners, and to avoid complaint of them, upon pain that the person of<g ref="char:EOLhyphen"/>fending in either of these cases shall pay Two shillings <hi>per</hi> Load.</p>
+            <p n="17">XVII. That no other <hi>Tunbril</hi> or <hi>Cart</hi> then what is or shall be appointed and allowed by the said Commissi<g ref="char:EOLhyphen"/>oners for doing the <hi>Works</hi> aforesaid, shall be imployed or shall intermeddle with the carrying of any <hi>Soil, Rubbish, Earth, Dung, Paving-Stones, Thames-Gravel</hi> or the like within this City or Liberties, <hi>Bricks</hi> or <hi>Tyles</hi> from the Wa<g ref="char:EOLhyphen"/>er-side within the said City and Liber<g ref="char:EOLhyphen"/>ties
+<pb n="26" facs="tcp:107419:16"/> upon pain to pay to the <hi>Car-man</hi> or <hi>Car-men</hi> imployd in <hi>cleansing</hi> the <hi>Streets</hi> as aforesaid, of the <hi>Ward</hi> where this of<g ref="char:EOLhyphen"/>ence shall be committed, Two shillings for every Load so taken up or carried in a <hi>Tunbril</hi> or <hi>Cart,</hi> and for Non-payment that such <hi>Tunbril</hi> or <hi>Cart</hi> shall be carri<g ref="char:EOLhyphen"/>ed to the Cities <hi>Pound</hi> call'd the <hi>Green<g ref="char:EOLhyphen"/>yard</hi> and there remain till <hi>payment</hi> there<g ref="char:EOLhyphen"/>of. Provided, that if any the said <hi>Car-men</hi> shall not immediately af<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er notice im<g ref="char:EOLhyphen"/>ploy himself in carrying the said <hi>Mate<g ref="char:EOLhyphen"/>rials,</hi> to forfeit and pay Two shillings for every <hi>Load</hi> thereof, and the Owners at liberty to employ <hi>Foreign Carts.</hi>
+            </p>
+            <p n="18">XVIII. That no <hi>Coachman, Car-man, Carter, Drayman,</hi> or other Person shall feed his or their <hi>Horse</hi> or <hi>Horses</hi> with <hi>Hay</hi> or <hi>Grains</hi> in the <hi>Streets, Lanes,</hi> or <hi>Common Passages</hi> within this City and Liberties, upon pain to forfeit and pay for every Offence two shillings six pence (over and above the like Sum formerly imposed and to be paid to the Gover<g ref="char:EOLhyphen"/>nors of <hi>Christs-Hospital</hi>) the one Moity to the <hi>Discoverer</hi> and <hi>Prosecutor,</hi> and the
+<pb n="27" facs="tcp:107419:16"/> other to the <hi>Car-man</hi> or <hi>Car-men</hi> of the <hi>Ward</hi> in which the said Offence shall be committed, and in case of Non-pay<g ref="char:EOLhyphen"/>ment to carry the <hi>Horse</hi> or <hi>Horses</hi> to the Cities <hi>Pound</hi> called the <hi>Green-Yard,</hi> there to remain till Payment thereof.</p>
+            <p n="19">XIX. That none of the aforesaid <hi>Car-men,</hi> their <hi>Agents</hi> or <hi>Servants,</hi> or other Person or Persons do sweep the <hi>Filth</hi> or <hi>Soil</hi> of the Streets, Lanes or Passages into any the <hi>Chanels</hi> of this City in time of <hi>Rain</hi> or otherwise upon pain to pay Six shillings and eight pence for every com<g ref="char:EOLhyphen"/>plaint duly proved.</p>
+            <p n="20">XX. That no man shall cast or lay in the <hi>Streets, Lanes,</hi> or <hi>common Passages</hi> or <hi>Chanels</hi> within this City or Liberties, any <hi>Dogs, Cats, Inwards of Beasts, Cleaves of Beasts Feet, Bones, Horns, Dregs</hi> or <hi>Dross of Ale</hi> or <hi>Beer,</hi> or any <hi>noisom thing</hi> upon pain of Ten shillings for every Offence.</p>
+            <p n="21">XXI. That no man set a <hi>Tunbril, Car</hi> or <hi>Cart</hi> in the Street by <hi>Night-time,</hi> upon pain to pay Two shillings, besides Satisfaction to any Person hurt thereby.</p>
+            <p n="22">XXII. That no man do ride or drive a
+<pb n="28" facs="tcp:107419:17"/>
+               <hi>Tunbril, Car, Cart</hi> or <hi>Dray,</hi> a trot in the Street (or sit on any part of the <hi>Car, Cart, Tunbril</hi> or <hi>Dray,</hi> unless another skilful person lead the <hi>horse</hi>) upon pain to forfeit and pay two shillings: in case of <hi>non-pay<g ref="char:EOLhyphen"/>ment</hi> to carry the <hi>Horse</hi> to the <hi>Pound,</hi> as aforesaid, to remain till <hi>Payment</hi> thereof.</p>
+            <p n="23">XXIII. That no <hi>Wagon, Car</hi> or <hi>Cart</hi> shod with <hi>Iron</hi> or <hi>Spignails,</hi> or having more Horses than is allowed by the a<g ref="char:EOLhyphen"/>foresaid <hi>Act</hi> of <hi>Common Council,</hi> shall take up any <hi>Goods</hi> within this City or Liberties to carry for <hi>Hire</hi> about the Streets, upon pain to pay Five shillings for every Offence: and in case of Non-payment, to carry the <hi>Horse</hi> or <hi>Horses</hi> to the a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oresaid <hi>Pound</hi> till Payment thereof.</p>
+            <p n="24">XXIV. That no <hi>Goung-Fermer</hi> shall carry any <hi>Ordure</hi> till after Ten a clock in the <hi>Winter,</hi> and Eleven a clock in the <hi>Summer</hi> at Night, nor shall spill any <hi>Or<g ref="char:EOLhyphen"/>dure</hi> in the Streets, upon pain to forfeit and pay Thirteen shillings four pence.</p>
+            <p n="25">XXV. That no <hi>Pudding-cart</hi> of <hi>Shambles</hi> shall go out till after the <hi>hours</hi> last before mentioned upon pain to forfeit Six shil<g ref="char:EOLhyphen"/>lings eight pence.</p>
+            <p n="26">
+               <pb n="29" facs="tcp:107419:17"/>XXVI. That no <hi>Artificer, Labourer,</hi> or other Person shall make any <hi>Stop</hi> or <hi>Dam</hi> in any <hi>Channel,</hi> nor shall slake any <hi>Lime</hi> in the <hi>Streets, Lanes</hi> or <hi>Passages,</hi> upon pain to pay Two shillings for every Offence.</p>
+            <p n="27">XXVII. That no man shall feed any <hi>Kine, Goats, Hogs,</hi> or any kind of <hi>Poultry</hi> in the open Streets, upon pain to forfeit Three shillings four pence for every Offence.</p>
+            <p n="28">XXVIII. That no man shall cast into the <hi>Ditches</hi> or <hi>Sewers, Grates</hi> or <hi>Gullets</hi> of the City, any manner of <hi>Carion, stinking Flesh; rotten Oranges</hi> or <hi>Onions, Rubbish, Dung, Sand, Gravel,</hi> or any other thing that may stop the course of the same upon pain of forfeiting Forty shillings for every Offence.</p>
+            <p n="29">XXIX. That no man shall make or con<g ref="char:EOLhyphen"/>tinue any <hi>Widraughts, Seat,</hi> or <hi>Seats</hi> for <hi>Hou<g ref="char:EOLhyphen"/>ses of Easement</hi> over, or <hi>Dreins</hi> into any the <hi>Common Sewers</hi> without Licence of the Com<g ref="char:EOLhyphen"/>missioners for the time being, upon pain to forfeit Forty shillings, and Forty shillings a month for so long time as the same shall be continued after <hi>Warning.</hi>
+            </p>
+            <p n="30">XXX. That no Person or Persons do pre<g ref="char:EOLhyphen"/>sume to keep any <hi>Lay-Stall</hi> for <hi>Dung, Rub<g ref="char:EOLhyphen"/>bish,
+<pb facs="tcp:107419:18"/> Earth,</hi> or other <hi>Soil,</hi> either at the <hi>Water-side</hi> or other place within this City or Li<g ref="char:EOLhyphen"/>berties other then the common or publick <hi>Lay-Stals</hi> appointed, or to be set out and appointed by the said Commissioners for the time being, upon pain to forfeit and pay Fifty three shillings four pence and Forty shillings a week for every week he or they shall so continue to do after <hi>Warning,</hi> or be indicted from time to time as a Common <hi>Nusance.</hi>
+            </p>
+            <p n="31">XXXI. That no <hi>Tylers, Bricklayer</hi> or other Person do throw out of <hi>Gutters,</hi> or off <hi>Roofs</hi> or other parts of Houses, any <hi>Tyles, Loam</hi> or <hi>Rubbish</hi> into any <hi>Street, Lane,</hi> or <hi>Com<g ref="char:EOLhyphen"/>mon Passage,</hi> but do bring down the same in Baskets or Trays, upon pain to forfeit Three shillings four pence for every Offence.</p>
+            <p n="32">XXXII. That no person or persons do set out in the <hi>Streets, Lanes</hi> or Passages any Hogs<g ref="char:EOLhyphen"/>heads, Barrels, or other Cask or Vessels to hoop, wash or dry, or otherwise incum<g ref="char:EOLhyphen"/>ber the Passage, upon pain to forfeit and pay Twenty shillings for every Offence.</p>
+            <p n="33">XXXIII. That the <hi>Dung, Mud, Filth,</hi> and <hi>Soil</hi> of the <hi>Wards</hi> of <hi>Billingsgate, Bridge, Lang<g ref="char:EOLhyphen"/>born,
+<pb n="31" facs="tcp:107419:18"/> Cornhil, Candlewick, Walbrook, Vintry,</hi> and <hi>Dowgate,</hi> shall be carried down to the <hi>Lay-stall</hi> at <hi>Dowgate Dock;</hi> of the <hi>Ward</hi> of <hi>Portsoken, Tower, Algate, Dukes-Place</hi> and <hi>Lyme-street,</hi> to the <hi>Lay-stall</hi> set out at <hi>Mile-end;</hi> of the <hi>Ward</hi> of <hi>Bishopsgate</hi> within and without to the <hi>Lay-stall</hi> at <hi>Holloway-Lane</hi> end, being part of a <hi>Meadow</hi> there belonging to the City; of the <hi>Ward</hi> of <hi>Cripplegate</hi> within and without, <hi>Aldersgate</hi> without, <hi>Bassishaw, Coleman-street</hi> and <hi>Broad-street</hi> to the <hi>Lay-stall</hi> at <hi>Bun-hill;</hi> of the <hi>Wards</hi> of <hi>Cheap, Cordwai<g ref="char:EOLhyphen"/>ner, Queenhith</hi> and <hi>Breadstreet,</hi> to the <hi>Lay-stall</hi> at or near Three <hi>Cranes,</hi> and in <hi>Dunghill-Lane</hi> neer <hi>Broken-Wharf,</hi> until such time as the Publick <hi>Wharf</hi> or <hi>Key</hi> at the <hi>River-side</hi> shall be laid open, and afterwards to the <hi>Lay-stall</hi> at <hi>Puddle-Dock;</hi> of the <hi>Wards</hi> of <hi>Farringdon</hi> within, <hi>Castle-baynard, Aldersgate</hi> within, and St. <hi>Martin le Grand</hi> to the <hi>Lay-stall</hi> at <hi>Puddle-Dock;</hi> of the <hi>Ward</hi> of <hi>Farringdon</hi> without to the <hi>Lay-stall</hi> at <hi>White-friars,</hi> and this course to be used, until the Commissioners shall see cause to alter the same; and whoso shall offend herein shall forfeit and pay Five shil<g ref="char:EOLhyphen"/>lings for every Offence.</p>
+            <p n="34">
+               <pb n="32" facs="tcp:107419:19"/>XXXIV. That the <hi>Car-men,</hi> Underta<g ref="char:EOLhyphen"/>kers, their <hi>Agents</hi> or <hi>Servants</hi> shall have Liberty to carry <hi>Rubbish</hi> from any parts of the City or Liberties into the <hi>Vineyard</hi> near <hi>Algate,</hi> for levelling the same, till the first of <hi>May</hi> next, and to shoot the same there <hi>gratis,</hi> and after that time to pay such Sum for what they there shoot, as the Commissi<g ref="char:EOLhyphen"/>oners shall require.</p>
+            <p n="35">XXXV. That inasmuch as the said <hi>Car-men</hi> have undertaken to do this Work in <hi>better manner</hi> and to <hi>greater satisfaction</hi> than heretofore hath been done, and the Com<g ref="char:EOLhyphen"/>missioners believing from what they have already observed, that they will accor<g ref="char:EOLhyphen"/>dingly perform the same, do therefore ex<g ref="char:EOLhyphen"/>hort all Persons that shall be rated towards this Work, willingly and readily to pay the same, so to prevent <hi>Trouble</hi> to <hi>them<g ref="char:EOLhyphen"/>selves,</hi> and <hi>Discouragement</hi> to the said <hi>Car-men,</hi> in a Work of this nature so requisite and necessary to the <hi>Health</hi> and <hi>Trade</hi> of the Inhabitants of this City.</p>
+            <p n="36">XXXVI. That the several <hi>Pains</hi> and <hi>Pe<g ref="char:EOLhyphen"/>nalties</hi> before-mentioned, not particularly expressed to whom to be paid, shall be paid
+<pb n="33" facs="tcp:107419:19"/> into the Chamber of <hi>London,</hi> upon Sum<g ref="char:EOLhyphen"/>mons or Warning by the Officers attending the Commissioners or either of them; or in default, the Offender or Offenders to be in<g ref="char:EOLhyphen"/>dicted at the Sessions for his or their respe<g ref="char:EOLhyphen"/>ctive Offences.</p>
+            <p n="37">XXXVII. That if any the aforesaid <hi>Car-men,</hi> their <hi>Agents</hi> or <hi>Servants</hi> do offend in any the particulars aforesaid, or otherwise relating to this Affair; that <hi>Complaint</hi> be made thereof to the Commissioners at the <hi>Guild-hall,</hi> who will deal with them accor<g ref="char:EOLhyphen"/>ding to their Offences.</p>
+            <p n="38">XXXVIII. That the <hi>Scavengers</hi> for the time being in the several <hi>Wards</hi> or <hi>Precincts</hi> within this City and Liberties, do take care either by their own <hi>Observations</hi> or <hi>Com<g ref="char:EOLhyphen"/>plaints</hi> to them by any of the Inhabitants, that the said <hi>Car-men,</hi> their <hi>Agents</hi> or <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> do accordingly perform the several <hi>Branches</hi> afore-mentioned to them relating, or to make complaint thereof to the Com<g ref="char:EOLhyphen"/>missioners, upon pain that the said <hi>Scavengers</hi> shall from time to time for their Negligence or Remisness be indicted at the <hi>Sessions,</hi> unless they shall submit to the <hi>censure</hi> and <hi>judgment</hi>
+               <pb n="34" facs="tcp:107419:20"/> of the said Commissioners for the time being.</p>
+            <p n="39">XXXIX. Lastly, That every <hi>Housholder</hi> do pay to the Person delivering this Book, <hi>Three pence</hi> at least for and towards the Charge of <hi>Printing</hi> and <hi>Delivery</hi> of the same.</p>
+         </div>
+      </body>
+      <back>
+         <div type="table">
+            <head>The Names of the Car-men Ʋndertakers in the Affair aforesaid, their Places of Abode, their Number of Tunbrils or Cars, and the Wards to which they are designed are as followeth.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Robert Simonds</cell>
+                     <cell>Tower</cell>
+                     <cell>3 <hi>Cars.</hi>
+                     </cell>
+                     <cell>Horsly-Down.</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Robert Clough <hi>and</hi> Charles Harbert</cell>
+                     <cell>Queenhithe</cell>
+                     <cell rows="3">3</cell>
+                     <cell rows="3">Broken-Wharf.</cell>
+                  </row>
+                  <row>
+                     <cell>Breadstreet</cell>
+                  </row>
+                  <row>
+                     <cell>Cordwainer</cell>
+                  </row>
+                  <row>
+                     <cell>William Pinchbanck</cell>
+                     <cell>Candlewick</cell>
+                     <cell>1</cell>
+                     <cell>Blackmanstreet.</cell>
+                  </row>
+                  <row>
+                     <cell>John Fox</cell>
+                     <cell rows="3">Cripplegate <hi>inf. &amp; ext.</hi>
+                     </cell>
+                     <cell rows="3">6</cell>
+                     <cell rows="3">
+                        <p>Aldersgate.</p>
+                        <p>Oldstreet.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Brown</cell>
+                  </row>
+                  <row>
+                     <cell>Edward Drage</cell>
+                  </row>
+                  <row>
+                     <cell>John Samford</cell>
+                     <cell rows="2">Portsoken</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">
+                        <p>Wenkoorth-street.</p>
+                        <p>Whitechappel.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stephen Samford</cell>
+                  </row>
+                  <row>
+                     <cell>Roger Rogers</cell>
+                     <cell rows="2">Billingsgate 3</cell>
+                     <cell rows="2">3</cell>
+                     <cell rows="2">Horsly-Down.</cell>
+                  </row>
+                  <row>
+                     <cell>Joseph Heydon</cell>
+                  </row>
+                  <row>
+                     <cell>James Russel</cell>
+                     <cell>Castle-baynard</cell>
+                     <cell>3</cell>
+                     <cell>Puddle-Dock.</cell>
+                  </row>
+                  <row>
+                     <cell>Christopher Rose</cell>
+                     <cell>Cheap</cell>
+                     <cell>2</cell>
+                     <cell>Whitecross-street.</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Moore</cell>
+                     <cell>Langborn</cell>
+                     <cell>3</cell>
+                     <cell>Horsly-Down.</cell>
+                  </row>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+                  <pb facs="tcp:107419:20"/>
+                  <row>
+                     <cell rows="2">Thomas Marshal</cell>
+                     <cell>Cornhil</cell>
+                     <cell rows="2">2</cell>
+                     <cell rows="2">Whitecross-street.</cell>
+                  </row>
+                  <row>
+                     <cell>Bassishaw</cell>
+                  </row>
+                  <row>
+                     <cell>Henry Chapman</cell>
+                     <cell rows="2">Vintrey, Dow<g ref="char:EOLhyphen"/>gate, Limestr.</cell>
+                     <cell rows="2">4</cell>
+                     <cell rows="2">Stoning-Lane, Southwark.</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Nevil</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Bendall</cell>
+                     <cell rows="2">Algate</cell>
+                     <cell rows="2">5</cell>
+                     <cell rows="2">Rosemary-Lane.</cell>
+                  </row>
+                  <row>
+                     <cell>Edward Clark</cell>
+                  </row>
+                  <row>
+                     <cell>Ralph Mitchell</cell>
+                     <cell rows="2">Colemanstreet</cell>
+                     <cell rows="2">3</cell>
+                     <cell rows="2">
+                        <p>Oldstreet</p>
+                        <p>Moor-lane.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Robert Webb</cell>
+                  </row>
+                  <row>
+                     <cell>Edward Looker</cell>
+                     <cell rows="2">Bishopsgate <hi>ext.</hi>
+                     </cell>
+                     <cell rows="2">4</cell>
+                     <cell rows="2">
+                        <hi>St.</hi> Olaves street.</cell>
+                  </row>
+                  <row>
+                     <cell>Anne Gee</cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Shepheard</cell>
+                     <cell rows="2">Bishopsg. <hi>inf.</hi>
+                     </cell>
+                     <cell rows="2">4</cell>
+                     <cell rows="2">
+                        <p>Barnaby-street.</p>
+                        <p>Horsly-Down.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Caines</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Campion</cell>
+                     <cell rows="4">Faringdon <hi>ext.</hi>
+                     </cell>
+                     <cell rows="4">15</cell>
+                     <cell rows="4">
+                        <hi>At and about</hi> Whitefriers.</cell>
+                  </row>
+                  <row>
+                     <cell>George Aires</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Goodwin</cell>
+                  </row>
+                  <row>
+                     <cell>Anthony Langley</cell>
+                  </row>
+                  <row>
+                     <cell>Simon Carter</cell>
+                     <cell rows="3" cols="3">
+                        <p>
+                           <hi>St.</hi> Bartholomews <hi>great and less.</hi>
+                        </p>
+                        <p>
+                           <hi>St.</hi> Sepulchers <hi>and</hi> Smithfield.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Christoph. Holms</cell>
+                  </row>
+                  <row>
+                     <cell>Henry Ingersole</cell>
+                  </row>
+                  <row>
+                     <cell>John Wilder</cell>
+                     <cell>Faringdon <hi>inf.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>Baynards-Castle.</cell>
+                  </row>
+                  <row>
+                     <cell>William Evenot</cell>
+                     <cell rows="2">Broadstreet</cell>
+                     <cell rows="2">4</cell>
+                     <cell rows="2">Horsly Down.</cell>
+                  </row>
+                  <row>
+                     <cell>John Matthews</cell>
+                  </row>
+                  <row>
+                     <cell>John Rose</cell>
+                     <cell>Aldersgate <hi>inf. and S.</hi> Martins</cell>
+                     <cell>2</cell>
+                     <cell>Whitecross-street.</cell>
+                  </row>
+                  <row>
+                     <cell>William Best</cell>
+                     <cell>Aldersgate <hi>ext.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>Three Cranes.</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Ja. Cole,</hi> Cler. to the said Commissioners.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
